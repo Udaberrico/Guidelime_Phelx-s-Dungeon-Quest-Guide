@@ -11,3 +11,5 @@ A guidelime addon for WoW Classic that helps with gathering all the quests for t
 - Shadowfang Keep
 - Gnomeregan (Alliance & Horde)
 - Scarlet Monastery
+
+You need to check your E-Mail Forwards, you let the dominiklenz.dev domain time out but are still sending emails to it, for example github information about new tokens.
